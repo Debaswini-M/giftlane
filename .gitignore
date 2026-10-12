@@ -1,0 +1,9 @@
+# raw and processed data : large, and processed files contain customer IDS (R4)
+data/
+# fitted model objects
+models/
+n__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
