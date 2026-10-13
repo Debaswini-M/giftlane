@@ -1,0 +1,3 @@
+method,components,fit_seconds,quality_metric,quality_value,factor_storage_MB
+Truncated SVD,50,0.2979267999980948,Approximate relative reconstruction error,0.7904964258186986,3.8227081298828125
+PCA,50,0.3125856000042404,Cumulative explained variance,0.3485837283845928,3.8227081298828125

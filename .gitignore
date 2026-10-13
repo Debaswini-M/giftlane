@@ -2,8 +2,13 @@
 data/
 # fitted model objects
 models/
-n__pycache__/
+__pycache__/
 *.pyc
 .ipynb_checkpoints/
 .venv/
 .DS_Store
+.env
+.env.*
+!.env.example
+outputs/train.parquet
+outputs/test.parquet

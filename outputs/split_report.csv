@@ -1,0 +1,3 @@
+split,rows,customers,products
+train,684357,5484,4537
+test,118608,2420,2904

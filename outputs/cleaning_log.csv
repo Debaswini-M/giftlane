@@ -1,0 +1,7 @@
+Cleaning Rule,Rows Before,Rows Removed,Rows Remaining
+Cancellation invoices,1067371,19494,1047877
+Non-Positive Quantities,1047877,3457,1044420
+Non-Positive prices,1044420,2750,1041670
+Missing CUstomer ID,1041670,236121,805549
+Non-Product StockCodes,805549,2584,802965
+Invalid Invoice,802965,0,802965
